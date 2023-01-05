@@ -1,0 +1,2 @@
+# AK7_PRO
+stm32f072c8t6
