@@ -1,9 +1,11 @@
-# AK7_PRO
-stm32f072c8t6
+# Since 2023.7.15, 
+
+vial was used for Ak7 pro.
+https://github.com/AtlantisCN/VIAL
+
+# AK7_PRO before 2023.07.15
 
 AK7_PRO MEDIA CONTROLLER BY VIA.
-
-SOFTWARE FOR QLAB_CONTROLLER! https://github.com/the-via/releases/releases/tag/v2.0.5 or https://usevia.app/#/
 
 1，install via, or visit https://usevia.app/#/
 
